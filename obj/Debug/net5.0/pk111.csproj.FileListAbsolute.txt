@@ -1,0 +1,16 @@
+C:\Users\IT\Documents\pk111\bin\Debug\net5.0\pk111.exe
+C:\Users\IT\Documents\pk111\bin\Debug\net5.0\pk111.deps.json
+C:\Users\IT\Documents\pk111\bin\Debug\net5.0\pk111.runtimeconfig.json
+C:\Users\IT\Documents\pk111\bin\Debug\net5.0\pk111.runtimeconfig.dev.json
+C:\Users\IT\Documents\pk111\bin\Debug\net5.0\pk111.dll
+C:\Users\IT\Documents\pk111\bin\Debug\net5.0\ref\pk111.dll
+C:\Users\IT\Documents\pk111\bin\Debug\net5.0\pk111.pdb
+C:\Users\IT\Documents\pk111\obj\Debug\net5.0\pk111.csproj.AssemblyReference.cache
+C:\Users\IT\Documents\pk111\obj\Debug\net5.0\pk111.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT\Documents\pk111\obj\Debug\net5.0\pk111.AssemblyInfoInputs.cache
+C:\Users\IT\Documents\pk111\obj\Debug\net5.0\pk111.AssemblyInfo.cs
+C:\Users\IT\Documents\pk111\obj\Debug\net5.0\pk111.csproj.CoreCompileInputs.cache
+C:\Users\IT\Documents\pk111\obj\Debug\net5.0\pk111.dll
+C:\Users\IT\Documents\pk111\obj\Debug\net5.0\ref\pk111.dll
+C:\Users\IT\Documents\pk111\obj\Debug\net5.0\pk111.pdb
+C:\Users\IT\Documents\pk111\obj\Debug\net5.0\pk111.genruntimeconfig.cache
