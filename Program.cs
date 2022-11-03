@@ -29,11 +29,13 @@ namespace pk111
             for (int i = 0; i < marks.GetLength(0); i++)
             {
                 Console.Write(names[i] + " ");
+                int sum = 0;
                 for (int j = 0; j < marks.GetLength(1); j++)
                 {
                     Console.Write(marks[i, j] + ",");
+                    sum += marks[i, j];
                 }
-                Console.WriteLine("");
+                Console.WriteLine("Средний бал:{0}", sum / marks.GetLength(1));
             }
         }
     }
